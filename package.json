@@ -17,7 +17,11 @@
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.2.0",
+    "@faker-js/faker": "^9.6.0",
     "eslint": "^9.2.0",
     "globals": "^15.1.0"
+  },
+  "dependencies": {
+    "goit-node-js": "file:"
   }
 }
